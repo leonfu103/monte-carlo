@@ -1,0 +1,9 @@
+.Canvas {
+	display: inline-block;
+}
+
+.Canvas__canvas {
+	border: 2px solid #000000;
+	border-top: none;
+	border-right: none;
+}
